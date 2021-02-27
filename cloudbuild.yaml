@@ -2,4 +2,4 @@ steps:
 - name: "gcr.io/kaniko-project/executor:latest"
   args: ["--cache=true", "--cache-ttl=48h", "--destination=gcr.io/spam-checker-fyp-1120/todo:latest"]
 - name: "gcr.io/cloud-builders/gcloud"
-  args: ['beta', 'run', 'deploy', 'todo', '--image', 'gcr.io/spam-checker-fyp-1120/todo:latest', '--region', 'us-central1', '--allow-unauthenticated', '--platform', 'managed']
+  args: ['beta', 'run', 'deploy', 'todo', '--image', 'gcr.io/spam-checker-fyp-1120/todo:latest', '--region', 'asia-southeast1', '--allow-unauthenticated', '--platform', 'managed']
