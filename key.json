@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spam-checker-fyp",
+  "private_key_id": "0a8e166df3ff28bc41ff1ca0791de352f25d7f33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDU9CcUIAIPMxXc\n/WUD7dVnomIVDfsWHAw+Nc049JoHg+aasUZhaB6AceWc7bmqd3OCCwqy/esQCTIE\nZ8eGX1X3s7WQLxkLsySzkAQye/4cpzciUdQr5NKKVEPRttiXJ1avP7o+AyDeOpVu\nEDhcx4oYXT6TCOhxnT8vM4oUqgXPpH/yEzih9JlZ0yU6zqEW+uM5Mai+DWTfpi37\nrLFs8/JkEK1EQV1hB+vXRU8285QTXr4nJgta+oRl55Nr7eoqzq8E2vOHD3oRpRF2\nJfNrD6WZImw/2jFFotrDLksmxtZQt1awCM0tpLO4Je6yl9URxUxKVTinyu9DoXR8\noWuDd51LAgMBAAECggEAFZNnIjLcAo46eNlzkqJWLNnW9iskdWkCFIt+73ZY5MoI\nY0PyzYuvC3R+vxeW6B6SJWrY+qmfV1CXMLsTDBo8q4wZqTIcZ4MPBOJiinrllCGd\nBG0mAgx9CGbhOC4+Y5Ioxji+tem7OsjUuwIJs9zDsRRBcsRESL6V2EJwiwdu70qc\nDy3IPRlm0j3hFvATftav3bondAF95HYP5Q/PmuhiKzhF6HoLXqaFC9XJZd5QAi+V\nD7TtwDgkFWRXo22rQjGbWCSWcDU2/j1fNSaOwfJWUEH1w3ze4/CsPOFs/xL2ppPw\nyk1yZaKYIL7G708ow+x+PoKk4qFaVX7UlN9NGqGIAQKBgQD0aV/KAi+o69IgYIP6\nGB3DMSgVy/ggbBK+qX929p/OkFpNx1LdwD7R9i4+f7AunsC8tPi2Nu1LPYyPtRUN\nG+Hbe88eGmJ7zWhNAcvI23GRXTLRmVj6SMEylH9M8Fw2I+G3EHMn1CMGH6mCp06e\nmD3bNbwNmC/xGxNgn5ORG1r1CwKBgQDfDPKu+cTJvCo4e92ucJd4EsEzZvFqd73U\nrN4W4zTK2/IqaJOrtRG/uc9OkfQ18AGopP3uitdj0Q1nWODu8+dekk1GvkUU9Rwr\n/bD+b3+IuNdQapEpYq5zOeCUF5MeQ935wPafD+gqEvn3h6iEFMblPoLUfwSYHHsu\n3OeH+vqgwQKBgBgYb14d+w7fONcCTOCSEhUVOotzkWG45dwwH6XdyIF3z79NQEkm\nU8slRwfYVMkz03KHMOHd5mT9i2b7hjjFn+2gdhnUphLofDjjTXDe2YJoOsNZJ+F8\n3Lcc1rQCGkUoIm+GyqOJkW5gHrkHv4N5JNgAoyp/73IIpk9nTAgJN11jAoGAeQhj\nn8L0n6s1FdVQ41lBN+ylXakckvNK1N7A3JaJjRJwg8afauskKG9BKJdWdvY3UDXH\nfOtmGUnVBiFaXQ+Imu60dBDHF6oxkUVmB4qlH6F9ZKuO/XAIzYm4bWOldyTIjL/C\nk2lkR4Bol4LLVHCZxMd44qnR6mB6D2HbWRQ9b4ECgYEA14VM6umyPhORl1fiq+a/\nc+pRUfz68DTGlEJEVTRo4wrV5O86oETvzmhQZU/Ur+pozNC2CgSscSXWPKmOJOpl\n7GDB5gJ2Q186lQl9S6oRX3O+WmSpon0hHAXyhsrNrZIfJ6UIJ940XqJ+eNRtpAK3\nMXiBYAF0/HtwQnpE4nsDqws=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-l80sc@spam-checker-fyp.iam.gserviceaccount.com",
+  "client_id": "102248630321912946006",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l80sc%40spam-checker-fyp.iam.gserviceaccount.com"
+}
